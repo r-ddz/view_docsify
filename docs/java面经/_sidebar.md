@@ -5,7 +5,9 @@
 
 * **java**
   * [● java-未分类](/docs/java面经/java/java-未分类.md)
-  * [● 设计模式](/docs/java面经/java/设计模式.md)
+  * [● 设计模式-创建型](/docs/java面经/java/设计模式-创建型.md)
+  * [● 设计模式-结构型](/docs/java面经/java/设计模式-结构型.md)
+  * [● 设计模式-行为型](/docs/java面经/java/设计模式-行为型.md)
 
 * **框架**
   * [● 框架-未分类](/docs/java面经/框架/框架-未分类.md)
