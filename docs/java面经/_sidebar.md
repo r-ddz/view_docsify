@@ -28,6 +28,7 @@
 
 * **MQ**
   * [● MQ-未分类](/docs/java面经/MQ/MQ-未分类.md)
+  * [● RabbitMQ](/docs/java面经/MQ/RabbitMQ.md)
 
 * **问题列表xxxxxxxxxx**
   * [● 问题列表](/docs/java面经/问题列表/问题列表.md)
